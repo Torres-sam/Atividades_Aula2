@@ -1,0 +1,14 @@
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios Aula\2 - Exercicio Fixação\ExercicioFixacao2\ExercicioFixacao2\bin\Debug\net8.0\ExercicioFixacao2.exe
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios Aula\2 - Exercicio Fixação\ExercicioFixacao2\ExercicioFixacao2\bin\Debug\net8.0\ExercicioFixacao2.deps.json
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios Aula\2 - Exercicio Fixação\ExercicioFixacao2\ExercicioFixacao2\bin\Debug\net8.0\ExercicioFixacao2.runtimeconfig.json
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios Aula\2 - Exercicio Fixação\ExercicioFixacao2\ExercicioFixacao2\bin\Debug\net8.0\ExercicioFixacao2.dll
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios Aula\2 - Exercicio Fixação\ExercicioFixacao2\ExercicioFixacao2\bin\Debug\net8.0\ExercicioFixacao2.pdb
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios Aula\2 - Exercicio Fixação\ExercicioFixacao2\ExercicioFixacao2\obj\Debug\net8.0\ExercicioFixacao2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios Aula\2 - Exercicio Fixação\ExercicioFixacao2\ExercicioFixacao2\obj\Debug\net8.0\ExercicioFixacao2.AssemblyInfoInputs.cache
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios Aula\2 - Exercicio Fixação\ExercicioFixacao2\ExercicioFixacao2\obj\Debug\net8.0\ExercicioFixacao2.AssemblyInfo.cs
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios Aula\2 - Exercicio Fixação\ExercicioFixacao2\ExercicioFixacao2\obj\Debug\net8.0\ExercicioFixacao2.csproj.CoreCompileInputs.cache
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios Aula\2 - Exercicio Fixação\ExercicioFixacao2\ExercicioFixacao2\obj\Debug\net8.0\ExercicioFixacao2.dll
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios Aula\2 - Exercicio Fixação\ExercicioFixacao2\ExercicioFixacao2\obj\Debug\net8.0\refint\ExercicioFixacao2.dll
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios Aula\2 - Exercicio Fixação\ExercicioFixacao2\ExercicioFixacao2\obj\Debug\net8.0\ExercicioFixacao2.pdb
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios Aula\2 - Exercicio Fixação\ExercicioFixacao2\ExercicioFixacao2\obj\Debug\net8.0\ExercicioFixacao2.genruntimeconfig.cache
+D:\Arquivos\Estudos\Udemy\C#\Atividades\Exercicios\Exercicios Aula\2 - Exercicio Fixação\ExercicioFixacao2\ExercicioFixacao2\obj\Debug\net8.0\ref\ExercicioFixacao2.dll
